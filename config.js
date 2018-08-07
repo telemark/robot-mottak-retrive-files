@@ -6,7 +6,6 @@ module.exports = {
   MOTTAK_SERVICE_KVITTER_URL: process.env.MOTTAK_SERVICE_KVITTER_URL || 'https://svarut.ks.no/tjenester/svarinn/kvitterMottak/forsendelse',
   AVTALE_TJENESTE_URL: process.env.AVTALE_TJENESTE_URL || 'https://log.avtale.tjeneste.win/agreements/parts/',
   JOBS_DIRECTORY_PATH: process.env.JOBS_DIRECTORY_PATH || 'test/directories/jobs',
-  COPIES_DIRECTORY_PATH: process.env.COPIES_DIRECTORY_PATH || 'test/directories/copies',
   PAPERTRAIL_HOSTNAME: process.env.PAPERTRAIL_HOSTNAME || 'robot-mottak-retrive-files',
   PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
   PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345,
