@@ -1,4 +1,4 @@
-FROM node:10.11.0-alpine@sha256:fcd9b3cb2fb21157899bbdb35d1cdf3d6acffcd91ad48c1af5cb62c22d2d05b1
+FROM node:10.14.2-alpine@sha256:539572fabf307f60709a4e0c5f9595f37ed99200b2224b0e42bef539415ac319
 
 #### Begin setup ####
 
