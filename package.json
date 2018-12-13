@@ -1,7 +1,7 @@
 {
   "name": "robot-mottak-retrive-files",
   "description": "Pull next job from tfk saksbehandling queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "private": true,
   "author": {
